@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This folder contains the files of the WEB PAGE with integrated files of dashboard, story, report of our project topic. This Folder also contains a Zip file in order to download all files of WEB PAGE together. The WEB INTEGRATION was created and completed by ""Panduri MAdhura Sai Arjun""
